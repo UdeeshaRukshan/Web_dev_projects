@@ -27,3 +27,18 @@ button:hover{
     transition-duration: 0.5s;
 }
 
+footer{
+    background-color: black;
+    height: 30px;
+   
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:#ffffff;
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    
+    text-align:center;
+
+}
